@@ -5,7 +5,7 @@
 
 </p>
 
-<h1 align="center">My name is Angel Pérez</h1>
+<h1 align="center">Hi, My name is Angel Pérez</h1>
 
 <h2 align="center">Future Backend developer</h2>
 
