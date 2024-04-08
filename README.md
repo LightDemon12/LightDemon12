@@ -13,7 +13,7 @@
   🌍 I'm based in ---> Guatemala<br/>
   ✉️ You can contact me at <a href="mailto:angelprez81@yahoo.com">angelprez81@yahoo.com</a><br/>
   🧠 I'm learning ---> Python<br/>
-  ⚡ I love the Fallout saga.
+  ⚡fun fact ---> I love the Fallout saga.
 </p>
 
 <h3 align="center">Skills</h3>
